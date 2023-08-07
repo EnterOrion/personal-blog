@@ -10,7 +10,7 @@
   }
   h1 {
     font-size: 7rem;
-    font-family: "Merienda", cursive;
+    font-family: "Yeseva One", cursive;
     font-weight: 200;
   }
 </style>
