@@ -1,7 +1,7 @@
 <script lang="ts">
-  import type { PageData } from "../../post/[slug]/$types";
+  import type { PageData } from "../../../app";
 
-  export let data: App.PageData;
+  export let data: PageData;
 </script>
 
 <h1>{data.title}</h1>
