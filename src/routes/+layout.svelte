@@ -8,8 +8,8 @@
 
 <style>
   :global(body) {
-    background-color: rgb(53, 49, 49);
-    color: rgb(222, 222, 222);
+    background-color: rgb(58, 84, 71);
+    color: rgb(255, 255, 255);
   }
 
   nav {
@@ -20,6 +20,11 @@
 
   nav a {
     text-decoration: none;
-    color: rgb(222, 222, 222);
+    color: rgb(255, 255, 255);
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(111, 194, 222);
   }
 </style>
