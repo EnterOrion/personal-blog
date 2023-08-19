@@ -10,7 +10,7 @@
   }
   h1 {
     font-size: 7rem;
-    font-family: "Yeseva One", cursive;
-    font-weight: 200;
+    font-family: "Crimson Pro", serif;
+    font-weight: 500;
   }
 </style>
