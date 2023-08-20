@@ -1,15 +1,20 @@
-<nav>
+<!-- <nav>
   <a href="/">Home</a>
   <a href="/about">About</a>
   <a href="/posts">Posts</a>
-</nav>
+</nav> -->
 
 <slot />
 
 <style>
   :global(body) {
-    background-color: rgb(58, 84, 71);
+    /* background-color: rgb(58, 84, 71); */
+    background-color: rgb(25, 25, 25);
     color: rgb(255, 255, 255);
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
   }
 
   nav {
