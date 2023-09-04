@@ -28,11 +28,6 @@
   nav a {
     font-size: 1.35rem;
     text-decoration: none;
-    color: rgb(255, 255, 255);
-  }
-
-  nav a:hover {
-    text-decoration: underline;
-    text-decoration-color: rgb(111, 194, 222);
+    color: rgb(222, 222, 222);
   }
 </style>

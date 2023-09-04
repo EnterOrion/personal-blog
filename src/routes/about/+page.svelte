@@ -14,7 +14,7 @@
   }
   p {
     font-family: "Crimson Pro", serif;
-    font-size: 1.3rem;
+    font-size: 2rem;
     font-weight: 380;
     padding-left: 1rem;
   }
